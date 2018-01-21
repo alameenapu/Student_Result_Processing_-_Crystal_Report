@@ -1,0 +1,34 @@
+C:\Users\ASIF\documents\visual studio 2012\Projects\nrp\nrp\obj\Debug\nrp.Form1.resources
+C:\Users\ASIF\documents\visual studio 2012\Projects\nrp\nrp\obj\Debug\nrp.process.resources
+C:\Users\ASIF\documents\visual studio 2012\Projects\nrp\nrp\obj\Debug\nrp.Properties.Resources.resources
+C:\Users\ASIF\documents\visual studio 2012\Projects\nrp\nrp\obj\Debug\nrp.csproj.GenerateResource.Cache
+C:\Users\ASIF\documents\visual studio 2012\Projects\nrp\nrp\bin\Debug\nrp.exe
+C:\Users\ASIF\documents\visual studio 2012\Projects\nrp\nrp\bin\Debug\nrp.pdb
+C:\Users\ASIF\documents\visual studio 2012\Projects\nrp\nrp\obj\Debug\nrp.exe
+C:\Users\ASIF\documents\visual studio 2012\Projects\nrp\nrp\obj\Debug\nrp.pdb
+C:\Users\ASIF\documents\visual studio 2012\Projects\nrp\nrp\obj\Debug\nrp.csprojResolveAssemblyReference.cache
+C:\Users\ASIF\documents\visual studio 2012\Projects\nrp\nrp\obj\Debug\nrp.RESULT.resources
+C:\Users\ifti\Desktop\nrp\nrp\obj\Debug\nrp.exe
+C:\Users\ifti\Desktop\nrp\nrp\obj\Debug\nrp.pdb
+C:\Users\Opu\Desktop\nrp\nrp\bin\Debug\nrp.exe
+C:\Users\Opu\Desktop\nrp\nrp\bin\Debug\nrp.pdb
+C:\Users\Opu\Desktop\nrp\nrp\obj\Debug\nrp.csprojResolveAssemblyReference.cache
+C:\Users\Opu\Desktop\nrp\nrp\obj\Debug\nrp.Form1.resources
+C:\Users\Opu\Desktop\nrp\nrp\obj\Debug\nrp.process.resources
+C:\Users\Opu\Desktop\nrp\nrp\obj\Debug\nrp.Properties.Resources.resources
+C:\Users\Opu\Desktop\nrp\nrp\obj\Debug\nrp.RESULT.resources
+C:\Users\Opu\Desktop\nrp\nrp\obj\Debug\nrp.csproj.GenerateResource.Cache
+C:\Users\Opu\Desktop\nrp\nrp\obj\Debug\nrp.exe
+C:\Users\Opu\Desktop\nrp\nrp\obj\Debug\nrp.pdb
+F:\nrp\nrp\obj\Debug\nrp.exe
+F:\nrp\nrp\obj\Debug\nrp.pdb
+G:\nrp\nrp\obj\Debug\nrp.exe
+G:\nrp\nrp\obj\Debug\nrp.pdb
+G:\nrp\nrp\bin\Debug\nrp.exe
+G:\nrp\nrp\bin\Debug\nrp.pdb
+G:\nrp\nrp\obj\Debug\nrp.csprojResolveAssemblyReference.cache
+G:\nrp\nrp\obj\Debug\nrp.Form1.resources
+G:\nrp\nrp\obj\Debug\nrp.process.resources
+G:\nrp\nrp\obj\Debug\nrp.Properties.Resources.resources
+G:\nrp\nrp\obj\Debug\nrp.RESULT.resources
+G:\nrp\nrp\obj\Debug\nrp.csproj.GenerateResource.Cache
